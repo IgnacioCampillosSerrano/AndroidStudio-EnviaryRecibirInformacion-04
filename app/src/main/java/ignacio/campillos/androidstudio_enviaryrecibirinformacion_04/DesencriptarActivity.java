@@ -6,6 +6,8 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.widget.Toast;
 
+import ignacio.campillos.androidstudio_enviaryrecibirinformacion_04.Modelos.Usuario;
+
 public class DesencriptarActivity extends AppCompatActivity {
 
     @Override

@@ -1,4 +1,4 @@
-package ignacio.campillos.androidstudio_enviaryrecibirinformacion_04;
+package ignacio.campillos.androidstudio_enviaryrecibirinformacion_04.Modelos;
 
 import java.io.Serializable;
 
